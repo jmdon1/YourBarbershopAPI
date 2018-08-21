@@ -1,0 +1,27 @@
+{
+  "name": "click",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "clickType": {
+      "type": "string",
+      "required": true
+    },
+    "deviceDetails": {
+      "type": "object"
+    },
+    "email": {
+      "type": "string"
+    },
+    "googleResult": {
+      "type": "object"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
