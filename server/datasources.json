@@ -1,12 +1,9 @@
 {
   "mongoDS": {
-    "host": "localhost",
     "port": 27017,
-    "url": "",
+    "url": "mongodb+srv://yb:nEfhEQCiorfJPnwv@cluster0-3rndf.gcp.mongodb.net/test?retryWrites=true",
     "database": "yb",
-    "password": "",
     "name": "mongoDS",
-    "user": "",
     "connector": "mongodb"
   }
 }
