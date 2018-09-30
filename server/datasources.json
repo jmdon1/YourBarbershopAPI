@@ -1,9 +1,0 @@
-{
-  "mongoDS": {
-    "port": 27017,
-    "url": "mongodb+srv://yb:nEfhEQCiorfJPnwv@cluster0-3rndf.gcp.mongodb.net/test?retryWrites=true",
-    "database": "yb",
-    "name": "mongoDS",
-    "connector": "mongodb"
-  }
-}
